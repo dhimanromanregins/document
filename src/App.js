@@ -13,7 +13,7 @@ export default function App() {
         <Route path="/" element={<Main />}/>
         <Route path="/harsh" element={<Harsh />} />
       </Routes>
-    </BrowserRouter>
+    </BrowserRouter>   
     </div>
   )
 }
